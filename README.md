@@ -15,7 +15,7 @@
 
 - DATEPEEK는 사용자의 데이트 경험을 공유하고 다양한 데이트 코스를 제공하여, 데이트 계획에 드는 고민과 스트레스를 줄여줍니다.
 
-![image](https://github.com/user-attachments/assets/156bcd9b-d1f4-4540-80f9-ff52191abe37)
+![image](./img/datepeek0.png)
 
 
 ## 주요 기능 및 서비스 화면
@@ -24,37 +24,37 @@
 
 사용자가 원하는 데이트 핫플 지역을 선택할 수 있는 기능을 제공합니다.
 
-![1](https://github.com/user-attachments/assets/29320a1f-aeef-475c-b4d1-be87deecb199)
+![1](./img/datepeek1.png)
 
 ### 데이트 코스 확인
 
 다른 사용자가 작성한 데이트 코스를 확인할 수 있으며, 관련된 정보를 제공합니다.
 
-![2](https://github.com/user-attachments/assets/c9c6a4a2-9540-433a-90ea-75c67c08a844)
+![2](./img/datepeek1-5.png)
 
 ### 코스 상세 페이지
 
 상세 페이지에서 코스의 이미지, 정보, 경로 등을 확인하고, 댓글로 다른 사용자와 소통할 수 있습니다.
 
-![3](https://github.com/user-attachments/assets/15074051-69d2-4e03-b0a9-0e7459d70282)
+![3](./img/datepeek2.png)
 
 ### 사용자 평가
 
 직접 경험한 데이트 코스에 대한 별점 평가와 댓글을 작성할 수 있습니다.
 
-![4](https://github.com/user-attachments/assets/108480d5-e760-4d4d-baa9-0785f6098049)
+![4](./img/datepeek3.png)
 
 ### 코스 만들기
 
 사진 업로드, 제목 작성, 관련 스팟 선택 등의 기능을 통해 나만의 데이트 코스를 만들 수 있습니다.
 
-![5](https://github.com/user-attachments/assets/448b3c7c-ba9b-40c9-9bbe-4e5fef09cc69)
+![5](./img/datepeek4.png)
 
 ## 프로젝트 차후 진행 방향
 
 프로젝트의 진행 방향은 다음과 같습니다:
 
-![6](https://github.com/user-attachments/assets/ee53440b-4082-4f89-9584-8af10ea7d267)
+![6](./img/datepeek5.png)
 
 
 ## 프로젝트 구조
